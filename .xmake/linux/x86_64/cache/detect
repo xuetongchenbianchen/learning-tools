@@ -1,0 +1,5 @@
+{
+    find_program = {
+        xrepo = "/home/elon/.local/bin/xrepo"
+    }
+}
